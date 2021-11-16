@@ -1,0 +1,57 @@
+.header{
+font-size: 20px;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: 1em;
+font-family: 'Sansita Swashed', cursive;}
+#logo{
+  padding-left: 200px;}
+
+#animal{
+  justify-content:center;
+  display:flex;
+width:300px;
+height:200px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 2em;
+border-radius: 5px;
+border:solid green;}
+
+.back{
+  background-image: url(fff.jpg);
+  padding-top: 10px;
+  padding-bottom: 10px;}
+
+body{
+  max-width: 330px;
+  height:auto;
+  border : solid black;
+  box-shadow: 10px 5px 5px grey;
+  border-style: double;
+  border-width: medium;
+  font-family: 'New Tegomin', serif;
+  font-size: 12px;
+  padding-top: 0;
+}
+
+.ita{font-style: italic;}
+
+span{
+  font-weight: bold;}
+
+ul{
+  padding: 10px;}
+
+li{
+  list-style-type: none;}
+
+.text{background-image: url(bamboo.jpg);
+border: solid green;
+border-radius: 5px;
+height:auto;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 20px;
+padding: 10px;
+}
